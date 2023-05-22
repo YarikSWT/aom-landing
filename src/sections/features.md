@@ -1,7 +1,6 @@
 ---
-title: Most AWE.SOME Features
-afterTitle: ...and so much more!
+title: Наши преимущества
 type: features
 ---
 
-Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id.
+Инновационные решения для вашего успеха: создание уникальных веб-приложений, которые отвечают потребностям вашего бизнеса и обеспечивают превосходный пользовательский опыт.

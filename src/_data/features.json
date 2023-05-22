@@ -1,32 +1,32 @@
 [
   {
-    "title": "AWE.SOME Feature One",
-    "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Гибкость и масштабируемость",
+    "icon": "icons8-bolt-64.svg",
+    "content": "Мы предлагаем гибкие и масштабируемые решения, которые растут вместе с вашим бизнесом."
   },
   {
-    "title": "AWE.SOME Feature Two",
-    "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Команда экспертов",
+    "icon": "icons8-salt-bae-64.svg",
+    "content": "Наша опытная команда разработчиков, дизайнеров и проектных менеджеров обеспечивает высокое качество работы."
   },
   {
-    "title": "AWE.SOME Feature Three",
-    "icon": "icon3.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Сокращение затрат",
+    "icon": "icons8-love-for-money-64.svg",
+    "content": "Мы помогаем снизить операционные затраты, предоставляя услуги оутсорсинга веб-приложений."
   },
   {
-    "title": "AWE.SOME Feature Four",
-    "icon": "icon4.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Быстрая разработка",
+    "icon": "icons8-bolt-64.svg",
+    "content": "Мы осуществляем быструю разработку веб-приложений с использованием передовых методологий и инструментов."
   },
   {
-    "title": "AWE.SOME Feature Five",
-    "icon": "icon5.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Пользовательский опыт",
+    "icon": "icons8-child-tasty-64.svg",
+    "content": "Мы создаем удобные и привлекательные веб-приложения, уделяя особое внимание пользовательскому опыту."
   },
   {
-    "title": "AWE.SOME Feature Six",
-    "icon": "icon6.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Поддержка и обслуживание",
+    "icon": "icons8-support-64.svg",
+    "content": "Мы предоставляем полную поддержку и обслуживание после запуска веб-приложений, гарантируя их бесперебойную работу."
   }
 ]

@@ -1,5 +1,3 @@
-<script src="https://unpkg.com/popper.js@1"></script>
-<script src="https://unpkg.com/tippy.js@4"></script>
 <script>
   function navToggle() {
     let btn = document.getElementById('menuBtn');
@@ -22,19 +20,6 @@
     }
   });
 
-  console.log('Code/Design: ttntm.me'); // credit where credit is due
-
   const template = document.getElementById('followTip');
   const container = document.createElement('div');
-
-  container.appendChild(document.importNode(template.content, true));
-
-  tippy('#follow', {
-    content: container.innerHTML,
-    animation: 'scale',
-    duration: 250,
-    arrow: true,
-    placement: 'bottom',
-    interactive: true,
-  });
 </script>

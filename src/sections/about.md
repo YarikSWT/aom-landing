@@ -1,6 +1,6 @@
 ---
-title: AWE.SOME Heading
+title: О нас
 type: about
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Vivamus vitae erat vel tellus condimentum consectetur.
+Мы команда профессионалов, специализирующихся на оказании услуг оутсорсинга веб-приложений. Наша цель — помочь вашей компании сосредоточиться на основных задачах, освободив вас от сложностей веб-разработки. Доверьте нам свои веб-приложения и достигайте успеха.
